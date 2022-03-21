@@ -1,0 +1,12 @@
+package com.capg.springboot.entity;
+
+public class Booking {
+	private int Id;
+	private long bookingNumber;
+	private int bookingDate;
+	private int travelDate;
+	private double totalCost;
+	
+	
+
+}
